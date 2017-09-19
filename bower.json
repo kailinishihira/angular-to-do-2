@@ -1,0 +1,17 @@
+{
+  "name": "angular-to-do",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Parul Mishra <parul.mishra78@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
